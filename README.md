@@ -8,4 +8,4 @@ Learnd to use css position property.
 Learned to use pseudo classes like :nth-child(), :not(), :last-child, first-child
 
 
-How the website looks like
+#How the website looks like
