@@ -6,3 +6,6 @@ My Learnings
 Skills Gained in this project
 Learnd to use css position property.
 Learned to use pseudo classes like :nth-child(), :not(), :last-child, first-child
+
+
+How the website looks like
